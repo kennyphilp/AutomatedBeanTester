@@ -21,8 +21,7 @@ import static org.junit.Assert.assertNotNull;
 public class BeanValidatorFactoryTest {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(BeanValidatorFactoryTest.class);
-
-
+    
     @Test
     public void testBeanpropertiesFactory() throws BeanProcessingException {
 
@@ -36,11 +35,6 @@ public class BeanValidatorFactoryTest {
         }
 
         assertFalse(validator.validate(beanInformation));
-
     }
-
-
-
-
 
 }
