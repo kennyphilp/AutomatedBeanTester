@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutomatedBeanTester.iml" filepath="$PROJECT_DIR$/.idea/modules/AutomatedBeanTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutomatedBeanTester_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AutomatedBeanTester_main.iml" group="AutomatedBeanTester" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutomatedBeanTester_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AutomatedBeanTester_test.iml" group="AutomatedBeanTester" />
+    </modules>
+  </component>
+</project>
